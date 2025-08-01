@@ -1,10 +1,10 @@
-# Joomla-Atum-Sidebar-fixed-on-scroll-using-CSS
+# Joomla Atum Sidebar Menu fixed position on-scroll (using CSS)
 The Sidebar Menu in Joomla 4! / Joomla 5! Atum Template will scroll up (Toggle Menu is open) and become invisible when the screen scrolls down.
 
 By simply adding a simple CSS code, the Sidebar Menu will remain in its position when the screen is scrolled, ensuring it remains visible even when the screen scrolls down.
 
 
-Please add the following CSS into ‎/media/templates/administrator/atum/css/user.css file (please create a user.css file if you don't have one already):
+Please add the following CSS into  ‎/media/templates/administrator/atum/css/user.css file (please create a user.css file if you don't have one already):
 
 ```
 /* SIDEBAR MENU ~ fixed on scroll */

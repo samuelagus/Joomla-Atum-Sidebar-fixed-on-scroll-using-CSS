@@ -1,0 +1,6 @@
+/* SIDEBAR MENU ~ fixed on scroll */
+
+#wrapper:not(.closed) .sidebar-wrapper .sidebar-sticky {
+  position: fixed; 
+  top: 66px;
+}

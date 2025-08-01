@@ -27,5 +27,7 @@ Please add the following CSS style into _/media/templates/administrator/atum/css
 ![Atum-Sidebar-fixed-on-scroll-3](https://github.com/user-attachments/assets/247f4f8b-649b-4722-afb0-de112770b868)
 
 
-Good luck!
+
+Good luck!  
 Let me know if you encounter any problems.
+
